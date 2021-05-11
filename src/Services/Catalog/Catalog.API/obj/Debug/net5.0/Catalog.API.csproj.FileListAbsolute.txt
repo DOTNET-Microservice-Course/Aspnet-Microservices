@@ -27,3 +27,15 @@ C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalo
 C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\ref\Catalog.API.dll
 C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.pdb
 C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.genruntimeconfig.cache
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\DnsClient.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
