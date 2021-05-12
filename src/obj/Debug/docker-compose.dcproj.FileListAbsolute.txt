@@ -19,3 +19,14 @@ C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Catalog.API.p
 C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\obj\Debug\docker-compose.dcprojAssemblyReference.cache
 C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Basket.API.deps.json
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Basket.API.runtimeconfig.json
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Basket.API.runtimeconfig.dev.json
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Basket.API.exe
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Basket.API.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\StackExchange.Redis.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\chinm\Documents\GitHub\Aspnet-Microservices\src\bin\Debug\Basket.API.pdb
