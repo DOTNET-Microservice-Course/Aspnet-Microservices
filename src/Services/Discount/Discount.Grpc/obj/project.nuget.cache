@@ -1,18 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "kSzWObdNi1ecqyOZXJxYSlefNQK4vNYrHhALtj+GPsFpke0im/XFqqTiDE4VSPMN/WmjXs8WkKF4IAkTQTdjZw==",
+  "dgSpecHash": "S3QG6QoxLJNQiI3TGff6ze+378cDNFg0KOJp/pLsrwN1Wr8r5l08RnV0Iu0hExm8PK9SKQ/bVyoXUNoAARYqAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\chinm\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\chinm\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.aspnetcore\\2.34.0\\grpc.aspnetcore.2.34.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.aspnetcore.server\\2.34.0\\grpc.aspnetcore.server.2.34.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.34.0\\grpc.aspnetcore.server.clientfactory.2.34.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.core.api\\2.34.0\\grpc.core.api.2.34.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.net.client\\2.34.0\\grpc.net.client.2.34.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.net.clientfactory\\2.34.0\\grpc.net.clientfactory.2.34.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.net.common\\2.34.0\\grpc.net.common.2.34.0.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\grpc.tools\\2.34.0\\grpc.tools.2.34.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.aspnetcore\\2.35.0\\grpc.aspnetcore.2.35.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.aspnetcore.server\\2.35.0\\grpc.aspnetcore.server.2.35.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.35.0\\grpc.aspnetcore.server.clientfactory.2.35.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.core.api\\2.35.0\\grpc.core.api.2.35.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.net.client\\2.35.0\\grpc.net.client.2.35.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.net.clientfactory\\2.35.0\\grpc.net.clientfactory.2.35.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.net.common\\2.35.0\\grpc.net.common.2.35.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\grpc.tools\\2.35.0\\grpc.tools.2.35.0.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.3\\microsoft.extensions.configuration.3.0.3.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
@@ -23,9 +24,10 @@
     "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\chinm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    "C:\\Users\\chinm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }
