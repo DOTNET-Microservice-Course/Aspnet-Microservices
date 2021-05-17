@@ -1041,11 +1041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chinm\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
+      "projectUniqueName": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
       "projectName": "Discount.Grpc",
-      "projectPath": "C:\\Users\\chinm\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
+      "projectPath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
       "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chinm\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.Grpc\\obj\\",
+      "outputPath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.Grpc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

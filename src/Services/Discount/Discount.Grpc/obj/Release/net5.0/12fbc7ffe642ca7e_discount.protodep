@@ -1,0 +1,2 @@
+obj\Release\net5.0\Protos/Discount.cs \
+obj\Release\net5.0\Protos/DiscountGrpc.cs: Protos/discount.proto
