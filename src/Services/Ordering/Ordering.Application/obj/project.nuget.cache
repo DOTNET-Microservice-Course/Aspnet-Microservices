@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "1tSMSPmoVv+nniZkc2/EoyPwkLPcKRQOk/DpnYRRFQKBDo3BPYzNHseo71GWqDL841lLziAG6wm3iNa1DFG/ZQ==",
+  "dgSpecHash": "QsNldg6uOxix1jaO/s/6cZV3+QV/77ebbzmnZBI2BlnnB6aY0YKNNRRaglYmT0UzwghfAme08U431DVdLRbYKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chinm\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\chinm\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
