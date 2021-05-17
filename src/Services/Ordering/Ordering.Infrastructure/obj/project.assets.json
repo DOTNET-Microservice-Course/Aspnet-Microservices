@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Ordering.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ordering.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ordering.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Application.dll": {}
+        }
+      },
+      "Ordering.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ordering.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ordering.Application/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Application/Ordering.Application.csproj",
+      "msbuildProject": "../Ordering.Application/Ordering.Application.csproj"
+    },
+    "Ordering.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Domain/Ordering.Domain.csproj",
+      "msbuildProject": "../Ordering.Domain/Ordering.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Ordering.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\chinm\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
+              "projectPath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

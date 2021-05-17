@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ceEi5SHffBra7oURPID5pd3l8xwXNct3ILLv+Tzss1e3KAxE7VYyloUFlIUb5GSClRSJKOWJXGUzUKSCpp1I+Q==",
+  "dgSpecHash": "F/jixHp8bTHcJJ3vqfh29K3noXCNin3o7RZpuVQ2Hqj5+NkbpgyAsKp5D3BAhA0VyBAiO9eLCSJDSIRJ7+Q1AQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
   "expectedPackageFiles": [],
