@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bw3NpEZN2GJZU4hOP2dAdvh0mYF8/vP2+t1B7qVm1IKgVXcCjaqB7W6jCK58dzUuyxHlmqFuA5CMAeHdroNa3g==",
+  "dgSpecHash": "igA+Svus6U3JG7VVT/Jkc5SkzRDbBM2w9WNCRAJrpIXKK8NcCvvbAKxTk1lyXiAnUiNx3bUAJ4Vjy7P75dJewQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chinm\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

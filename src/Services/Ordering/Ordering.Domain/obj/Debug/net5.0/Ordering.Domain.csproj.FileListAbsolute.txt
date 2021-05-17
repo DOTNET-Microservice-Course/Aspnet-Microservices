@@ -1,0 +1,12 @@
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.deps.json
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.dll
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\ref\Ordering.Domain.dll
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csprojAssemblyReference.cache
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfo.cs
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb

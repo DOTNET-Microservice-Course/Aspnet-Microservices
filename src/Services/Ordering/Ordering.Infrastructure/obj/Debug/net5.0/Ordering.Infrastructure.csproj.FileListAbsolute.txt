@@ -1,0 +1,5 @@
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csprojAssemblyReference.cache
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
