@@ -11,19 +11,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_basket.api$
+      - NUGET_FALLBACK_PACKAGES=
     volumes:
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Basket\Basket.API:/app
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src:/src
       - C:\Users\chinm\vsdbg\vs2017u5:/remote_debugger:rw
-#$nuget_volume_mapping_basket.api$
+      - C:\Users\chinm\.nuget\packages\:/root/.nuget/packages:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_basket.api$ \"/src/../../../../../Documents/GitHub/Aspnet-Microservices/src/Services/Basket/Basket.API/bin/Debug/net5.0/Basket.API.dll\""
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/src/../../../../../Documents/GitHub/Aspnet-Microservices/src/Services/Basket/Basket.API/bin/Debug/net5.0/Basket.API.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
@@ -37,19 +37,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_catalog.api$
+      - NUGET_FALLBACK_PACKAGES=
     volumes:
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Catalog\Catalog.API:/app
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src:/src
       - C:\Users\chinm\vsdbg\vs2017u5:/remote_debugger:rw
-#$nuget_volume_mapping_catalog.api$
+      - C:\Users\chinm\.nuget\packages\:/root/.nuget/packages:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_catalog.api$ \"/src/../../../../../Documents/GitHub/Aspnet-Microservices/src/Services/Catalog/Catalog.API/bin/Debug/net5.0/Catalog.API.dll\""
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/src/../../../../../Documents/GitHub/Aspnet-Microservices/src/Services/Catalog/Catalog.API/bin/Debug/net5.0/Catalog.API.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
@@ -64,19 +64,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_discount.api$
+      - NUGET_FALLBACK_PACKAGES=
     volumes:
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API:/app
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src:/src
       - C:\Users\chinm\vsdbg\vs2017u5:/remote_debugger:rw
-#$nuget_volume_mapping_discount.api$
+      - C:\Users\chinm\.nuget\packages\:/root/.nuget/packages:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_discount.api$ \"\""
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
@@ -91,19 +91,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_discount.grpc$
+      - NUGET_FALLBACK_PACKAGES=
     volumes:
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.Grpc:/app
       - C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src:/src
       - C:\Users\chinm\vsdbg\vs2017u5:/remote_debugger:rw
-#$nuget_volume_mapping_discount.grpc$
+      - C:\Users\chinm\.nuget\packages\:/root/.nuget/packages:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_discount.grpc$ \"\""
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
