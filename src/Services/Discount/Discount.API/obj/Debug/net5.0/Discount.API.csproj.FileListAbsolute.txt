@@ -44,7 +44,6 @@ C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Disco
 C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.csprojAssemblyReference.cache
 C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.AssemblyInfoInputs.cache
 C:\Users\chinm\OneDrive\Documents\GitHub\Aspnet-Microservices\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.AssemblyInfo.cs

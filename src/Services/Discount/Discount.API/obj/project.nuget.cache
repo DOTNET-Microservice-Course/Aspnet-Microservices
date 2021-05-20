@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bfhfSQmSdGGxfbj1yizPElc+ogWJUrSgnetRSMLmKHJFlvOxGA0KEQuM/Emn2BYpQzTKjdz7HC+cU4c92SRYNg==",
+  "dgSpecHash": "oIwOvlGdE8wwbHK1EZ0l/bl/fcYbsxm6C6DaGSTu0Ac2lxnYwl+1Ew21vGflSq1hnSARYEPgsvUJ+rWrU72hrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
   "expectedPackageFiles": [

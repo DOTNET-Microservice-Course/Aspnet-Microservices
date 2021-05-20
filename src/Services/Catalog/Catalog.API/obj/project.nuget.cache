@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8DOCTmJAowOud6OFFnyLYoxrNw+A0CgPMkI8QH/zbFQ9ZP6qOlNsvBP4UYb98XTaxrDoDSBLlgE5FRTW/w0saw==",
+  "dgSpecHash": "lYB8lK7oW4Ab2gxXEyfO/BF5DNIBwGNSx3kiyYke6w1/J2t4XFezRrjWc+FXuI7M/9Wd4KDqWc8ivjdjrzJxrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XEJMC3MucWDxrL52uWc6/TRl1NC2bFeGiKXgZuvhPGGFI+KlrC0ySumAXKa02QSRRRONriG4H+BAHySCiLyZCw==",
+  "dgSpecHash": "ykeqrUoUY8qrFG3RMpZecr4uyay0KKGPgmZdmUi6996S8HJCZsN7Aaj+o0ws0D4ERm/SWz9N7MNaaN1FBiQWUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\chinm\\OneDrive\\Documents\\GitHub\\Aspnet-Microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
